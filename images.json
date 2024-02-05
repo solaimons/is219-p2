@@ -1,0 +1,29 @@
+{
+    "images": [
+        
+        {
+            "imgPath": "img/places/liberty.jpg",
+            "imgLocation": "New Jersey ",
+            "description": "liberty science center ",
+            "date": "01/12/2024"
+        },
+        {
+            "imgPath": "img/places/hockey.jpg",
+            "imgLocation": "Long Island",
+            "description": "UBS Arena",
+            "date": "11/11/2022"
+        },
+        {
+            "imgPath": "img/places/travis.jpg",
+            "imgLocation": "New York City",
+            "description": "Madison Square Garden",
+            "date": "12/21/2023"
+        },
+        {
+            "imgPath": "img/places/turkey2.jpg",
+            "imgLocation": "Turkey",
+            "description": "Istanbul",
+            "date": "08/23/2022"
+        }
+  ]
+}
